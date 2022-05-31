@@ -1,0 +1,4 @@
+f=open('file1.txt','a')
+x=f.write('\nthis is my python assignment.')
+print(x)
+f.close()
