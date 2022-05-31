@@ -1,0 +1,4 @@
+f=open('file1.txt','rt')
+x=f.read()
+print(x)
+f.close()
